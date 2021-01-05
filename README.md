@@ -6,6 +6,7 @@ student who wants to test they're abilities in a certain game. It is
 desired a software implementation which automates this process.
 
 Tasks:
+
 1)There will be created a list in a external folder "date.in".
 
 2)The teams with the lowest score will be deleted from the list so 
