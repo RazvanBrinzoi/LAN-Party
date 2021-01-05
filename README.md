@@ -10,6 +10,7 @@ Tasks:
 
 2)The teams with the lowest score will be deleted from the list so 
 it will remain a number of n teams where n is a power of two. 
+
 Note: If two teams have the same score the one that gets deleted is the one
 which immediatly follows in the list. If the one that should be deleted
 is the team from the head of the list , the list will have a new head.
